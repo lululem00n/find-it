@@ -1,6 +1,6 @@
-## About the Game
+## About the Game :)
 
-Find It is a 2D platformer made for the Haven event, featuring the Haven hedgehog mascot as the main character throughout the game, I drew the mascot pixel by pixel using LibreSprite, which was a bit challenging for me, haha!
+Find It is a 2D platformer made for the Haven event, featuring the Haven hedgehog mascot as the main character throughout the game, I drew the mascot pixel by pixel using LibreSprite, which was a bit challenging for me.
 
 The game takes place in an autumn-themed environment to match the Haven theme, I used a pre-made tileset and existing background assets because creating backgrounds isn't really my strongest skill, but I chose resources that fit the style I wanted for the game.
 
